@@ -1,0 +1,1 @@
+Arquivo teste criado para o desafio de Git e Github da DIO.
